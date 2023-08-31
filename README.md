@@ -1,4 +1,4 @@
-Welcome to my GitHub profile. I'm an aspiring backend developer with a strong foundation in Computer Engineering
+** Welcome to my GitHub profile. I'm an aspiring backend developer! **
 
 
 # 💻 Tech Stack:
